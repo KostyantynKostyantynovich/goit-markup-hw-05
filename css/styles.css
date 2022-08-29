@@ -141,8 +141,7 @@ padding: 32px 0;
 
 
 .navigation-bottom-style:hover::after{
-    background-color: var(--blue-color);
-    
+    background-color: var(--blue-color); 
 }
 
 
